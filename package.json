@@ -1,0 +1,8 @@
+{
+  "name": "merchant-website",
+  "version": "1.0.0",
+  "description": "Root for the e-commerce merchant website monorepo.",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

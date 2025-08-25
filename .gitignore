@@ -1,0 +1,6 @@
+# Ignore node_modules, build files, and sensitive data
+node_modules/
+build/
+.env
+.env.local
+.DS_Store
